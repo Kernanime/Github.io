@@ -1,0 +1,63 @@
+body
+{
+background-color: rgb(10, 10, 10);
+color: rgb(255, 255, 255);
+}
+
+
+
+
+a{
+font-size: small;
+
+}
+
+p
+
+{
+font-size:50%;
+color: rgb(255, 255, 255)
+}
+i{
+  font-size:50%;
+  color: rgb(255, 255, 255);
+}
+
+
+
+
+
+
+H1
+{
+   font-style: unset;
+ color: rgb(180, 87, 0);
+font-size: 600%;
+}
+
+
+h2
+{
+font-size: BOLDER;
+color: rgb(255, 255, 255);
+
+}
+
+
+h3
+{
+font-size: BOLDER;
+color: rgb(255, 255, 255);
+
+}
+h4
+{
+font-size: BOLDER;
+color: rgb(255, 255, 255);
+}
+
+
+h5{
+
+  color: rgb(255, 255, 255);
+}
